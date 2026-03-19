@@ -3,6 +3,8 @@
 An open-source recipe book application built with **Next.js**.  
 This project allows anyone to browse, add, and manage recipes in a clean and modern interface.
 
+<p>@author: Samuel Amador</p>
+
 ---
 
 ## Features

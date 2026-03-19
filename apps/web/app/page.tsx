@@ -112,8 +112,8 @@ export default function Home() {
         </div>
       </div>
 
-      <div className='border-t border-gray-200  text-center text-sm py-4 text-slate-400'>
-        &copy; Samuel Amador
+      <div className='text-center text-sm py-5 mt-5 text-slate-400'>
+        &copy; Made as a hobby by Samuel Amador
       </div>
     </main>
   )
