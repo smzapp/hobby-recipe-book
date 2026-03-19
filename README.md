@@ -8,7 +8,8 @@ This project allows anyone to browse, add, and manage recipes in a clean and mod
 ---
 # Screenshot
 
-![Image](https://i.postimg.cc/xn3JYxnr/chrome-Z7Oi9Ea-QAW.png)
+<img src="https://i.postimg.cc/xn3JYxnr/chrome-Z7Oi9Ea-QAW.png" alt="screenshot"/>
+
 ---
 
 ## Features
